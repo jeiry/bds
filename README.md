@@ -12,3 +12,7 @@ https://www.cnblogs.com/yangfengwu/p/14773752.html
 上面网址可以让你学会如何烧录
 
 v2版本会更小化体积，和会有更完善的代码。敬请期待
+
+LCEDA分享
+
+https://oshwhub.com/jeiry/xiao-xing-gps-bei-dou-gen-zong
